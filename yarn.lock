@@ -533,10 +533,10 @@ atob@^2.1.1:
   resolved "https://registry.npm.taobao.org/atob/download/atob-2.1.2.tgz#6d9517eb9e030d2436666651e86bd9f6f13533c9"
   integrity sha1-bZUX654DDSQ2ZmZR6GvZ9vE1M8k=
 
-ava@^1.2.1:
+ava@1.4.1:
   version "1.4.1"
-  resolved "https://registry.npm.taobao.org/ava/download/ava-1.4.1.tgz#4a59289e0c9728e492ec3a5be21d1072636be172"
-  integrity sha1-SlkongyXKOSS7Dpb4h0QcmNr4XI=
+  resolved "https://registry.yarnpkg.com/ava/-/ava-1.4.1.tgz#4a59289e0c9728e492ec3a5be21d1072636be172"
+  integrity sha512-wKpgOPTL7hJSBWpfbU4SA8rlsTZrph9g9g7qYDV7M6uK1rKeW8oCUJWRwCd8B24S4N0Y5myf6cTEnA66WIk0sA==
   dependencies:
     "@ava/babel-preset-stage-4" "^2.0.0"
     "@ava/babel-preset-transform-test-files" "^5.0.0"
@@ -2993,10 +2993,10 @@ number-is-nan@^1.0.0:
   resolved "https://registry.npm.taobao.org/number-is-nan/download/number-is-nan-1.0.1.tgz#097b602b53422a522c1afb8790318336941a011d"
   integrity sha1-CXtgK1NCKlIsGvuHkDGDNpQaAR0=
 
-nyc@^14.0.0:
+nyc@14.1.1:
   version "14.1.1"
-  resolved "https://registry.npm.taobao.org/nyc/download/nyc-14.1.1.tgz#151d64a6a9f9f5908a1b73233931e4a0a3075eeb"
-  integrity sha1-FR1kpqn59ZCKG3MjOTHkoKMHXus=
+  resolved "https://registry.yarnpkg.com/nyc/-/nyc-14.1.1.tgz#151d64a6a9f9f5908a1b73233931e4a0a3075eeb"
+  integrity sha512-OI0vm6ZGUnoGZv/tLdZ2esSVzDwUC88SNs+6JoSOMVxA+gKMB8Tk7jBwgemLx4O40lhhvZCVw1C+OYLOBOPXWw==
   dependencies:
     archy "^1.0.0"
     caching-transform "^3.0.2"
@@ -3933,10 +3933,10 @@ standard-engine@~9.0.0:
     minimist "^1.1.0"
     pkg-conf "^2.0.0"
 
-standard@^12.0.1:
+standard@12.0.1:
   version "12.0.1"
-  resolved "https://registry.npm.taobao.org/standard/download/standard-12.0.1.tgz#0fc5a8aa6c34c546c5562aae644242b24dae2e61"
-  integrity sha1-D8Woqmw0xUbFViquZEJCsk2uLmE=
+  resolved "https://registry.yarnpkg.com/standard/-/standard-12.0.1.tgz#0fc5a8aa6c34c546c5562aae644242b24dae2e61"
+  integrity sha512-UqdHjh87OG2gUrNCSM4QRLF5n9h3TFPwrCNyVlkqu31Hej0L/rc8hzKqVvkb2W3x0WMq7PzZdkLfEcBhVOR6lg==
   dependencies:
     eslint "~5.4.0"
     eslint-config-standard "12.0.0"
